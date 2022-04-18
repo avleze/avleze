@@ -10,7 +10,7 @@ I grew up in that context, so my interest in computing multiplied. I asked my fa
 
 I signed up for a famous Spanish programming web forum, where I asked questions and helped other people solve problems. Some years later, I programmed my first UI using Qt and later using GTK2 libraries.
 
-Then, I enrolled in university and learned about programming and best practices, data structure, software engineering, development methodologies, design patterns, quality assurance, requirements engineering, web engineering, patterns recognition, and much more. Next, I enrolled in an MSc. in research about Computer Science, Big Data, and Digital transformation. After that, I did what I do right now, my Ph.D. thesis about advanced artificial intelligence techniques to extract knowledge from bibliographic sources.
+Then, I enrolled in university and learned about programming and best practices, data structures, software engineering, development methodologies, design patterns, quality assurance, requirements engineering, web engineering, patterns recognition, and much more. Next, I enrolled in an MSc. in research about Computer Science, Big Data, and Digital transformation. After that, I did what I do right now, my Ph.D. thesis about advanced artificial intelligence techniques to extract knowledge from bibliographic sources.
 
 ### Educational background
 To do.
