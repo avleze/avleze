@@ -1,15 +1,16 @@
 ## 😄 Hi there!😄
-I'm Antonio Vélez, a 26 years old PhD. student of Computer Science at University of Cádiz and also a lecturer at the same university. 
-### 🔙 My begginings
-I have always been related to computers. My father was also a programmer in the 80's when he used BASIC and also Clipper. He also attended to a Cobol course that never applied to his job. Then, he left the job and moved to the public administration. After that, he continued trying to code just for fun, and tried to learn C++, but he didn't achieve it and lose the interest in coding.
+I'm Antonio Vélez, a 26-year-old Ph.D. student of Computer Science at the University of Cádiz and a lecturer at the same university.
 
-At that time, the access to information was difficult because of the lack of Internet. However, his interest about informatics in general never stopped. He continued reparing PC's and installing operating systems, programs and so on. 
+### 🔙 My beginnings
+I have always been related to computers. My father was also a programmer in the 80s when he used BASIC and Clipper. He also attended a Cobol course that never applied to his job. Then, he left the job and moved to the public administration. After that, he continued trying to code just for fun and learning C++, but he didn't achieve it and lost interest in coding.
 
-I grew in that context, so my interests in computing grew quickly. I asked my father how the windows of Windows XP were made. He asked in Internet, what was the best programming language to learn for a fourteen years old child. People recommended C/C++ and the Deitel&Deitel book. At the age of fifteen I started to learn coding just for fun with that book. 
+At that time, access to information was difficult because of the lack of the Internet. However, his interest in informatics in general never stopped. He continued repairing PCs and installing operating systems, programs, etc.
 
-I signed up in a popular spanish programming web forum, where I asked questions and help other people to solve problems. Some years later I programmed my first UI using Qt and later using GTK2 libraries.
+I grew up in that context, so my interest in computing multiplied. I asked my father how the windows Windows XP was made. He asked the Internet what was the best programming language to learn for a fourteen-year-old child. People recommended C/C++ and the Deitel&Deitel book. At fifteen, I started to learn coding just for fun with that book.
 
-Then I enrolled in University and not only learn about programming but about best practices, data structure, software engineering, develop methodologies, design patterns, quality assurance, requirements engineering, web engineering, patterns recognition and much more. Next, I enrolled in an MSc. in research about Computer Science, Big Data and Digital transformation and after that I ended up doing what I do right now, my Phd. thesis about advanced artificial intelligent techniques to extract knowledge from bibliographic sources.
+I signed up for a famous Spanish programming web forum, where I asked questions and helped other people solve problems. Some years later, I programmed my first UI using Qt and later using GTK2 libraries.
+
+Then I enrolled in university and learned about programming and best practices, data structure, software engineering, development methodologies, design patterns, quality assurance, requirements engineering, web engineering, patterns recognition, and much more. Next, I enrolled in an MSc. in research about Computer Science, Big Data, and Digital transformation. After that, I did what I do right now, my Ph.D. thesis about advanced artificial intelligence techniques to extract knowledge from bibliographic sources.
 
 ### Educational background
 To do.
