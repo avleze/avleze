@@ -13,12 +13,41 @@ I signed up for a famous Spanish programming web forum, where I asked questions 
 Then, I enrolled in university and learned about programming and best practices, data structures, software engineering, development methodologies, design patterns, quality assurance, requirements engineering, web engineering, patterns recognition, and much more. Next, I enrolled in an MSc. in research about Computer Science, Big Data, and Digital transformation. After that, I did what I do right now, my Ph.D. thesis about advanced artificial intelligence techniques to extract knowledge from bibliographic sources.
 
 ### Educational background
-To do.
-### Technological background
-To do.
-### Teaching
-To do.
 
+* Ph.D. in Computer Science (2020-?) at **University of Cádiz**.
+* M.Sc. degree in Research in Systems and Computer Engineering (2019-2020) at **University of Cádiz**.
+* Degree in Computer Science (2014-2019) at **University of Cádiz**.
+
+### Technological background
+### Data analysis
+
+* Python, scipy, numpy, pandas.
+* matplotlib, seaborn.
+* Community detection knowledge.
+* Graph management libraries: networkx, igraph.
+* Gephi.
+
+#### Development
+During my academic and teaching experience I have developed skills in:
+* Git, Subversion
+* REST APIs
+* C/C++ , CMake, Qt, GTK3.
+* Python, Django, Flask, sqlalchemy.
+* Node.js, Sequelize, Express.
+* Java, Spring Boot, Spring Data, JPA, JPQL.
+* Javascript, JQuery, Tailwind, SASS, ReactJS.
+#### Operations
+* AWS Cloud.
+* Docker, Kubernetes.
+* Linux.
+### Teaching
+
+* Servers Administration (2021-2022).
+* Information Retrieval (2021-2022).
+* System's Virtualization (2021-2022).
+* Internet of Things (2021-2022).
+* Servers Administration (2020-2021).
+* Software Engineering (2020-2021).
 
 <!--
 **avleze/avleze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
