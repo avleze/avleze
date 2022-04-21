@@ -19,7 +19,7 @@ Then, I enrolled in university and learned about programming and best practices,
 * Degree in Computer Science (2014-2019) at **University of Cádiz**.
 
 ### Technological background
-### Data analysis
+#### Data analysis
 
 * Python, scipy, numpy, pandas.
 * matplotlib, seaborn.
