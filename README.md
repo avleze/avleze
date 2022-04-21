@@ -35,7 +35,7 @@ During my academic and teaching experience I have developed skills in:
 * Python, Django, Flask, sqlalchemy.
 * Node.js, Sequelize, Express.
 * Java, Spring Boot, Spring Data, JPA, JPQL.
-* Javascript, JQuery, Tailwind, SASS, ReactJS.
+* Javascript, JQuery, Tailwind, SASS, Gulp, ReactJS.
 #### Operations
 * AWS Cloud.
 * Docker, Kubernetes.
