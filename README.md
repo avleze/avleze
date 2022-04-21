@@ -39,12 +39,12 @@ During my academic and teaching experience I have developed skills in:
 #### Operations
 * AWS Cloud.
 * Docker, Kubernetes.
-* Linux.
+* Linux, Apache, NGINX, Bash.
 ### Teaching
 
 * Servers Administration (2021-2022).
 * Information Retrieval (2021-2022).
-* System's Virtualization (2021-2022).
+* Systems Virtualization (2021-2022).
 * Internet of Things (2021-2022).
 * Servers Administration (2020-2021).
 * Software Engineering (2020-2021).
