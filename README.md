@@ -14,18 +14,12 @@ Then, I enrolled in university and learned about programming and best practices,
 
 ### Educational background
 
+* Research Stay at **University of Pisa**.
 * Ph.D. in Computer Science (2020-?) at **University of Cádiz**.
 * M.Sc. degree in Research in Systems and Computer Engineering (2019-2020) at **University of Cádiz**.
 * Degree in Computer Science (2014-2019) at **University of Cádiz**.
 
 ### Technological background
-#### Data analysis
-
-* Python, scipy, numpy, pandas.
-* matplotlib, seaborn.
-* Community detection knowledge.
-* Graph management libraries: networkx, igraph.
-* Gephi.
 
 #### Development
 During my academic and teaching experience I have developed skills in:
@@ -36,12 +30,19 @@ During my academic and teaching experience I have developed skills in:
 * Node.js, Sequelize, Express.
 * Java, Spring Boot, Spring Data, JPA, JPQL.
 * Javascript, JQuery, Tailwind, SASS, Gulp, ReactJS.
+#### Data analysis
+* Python, scipy, numpy, pandas.
+* matplotlib, seaborn.
+* Community detection knowledge.
+* Graph management libraries: networkx, igraph.
+* Gephi.
 #### Operations
 * AWS Cloud.
 * Docker, Kubernetes.
 * Linux, Apache, NGINX, Bash.
 ### Teaching
-
+* Systems Virtualization (2022-2023)
+* Information Retrieval (2022-2023)
 * Servers Administration (2021-2022).
 * Information Retrieval (2021-2022).
 * Systems Virtualization (2021-2022).
