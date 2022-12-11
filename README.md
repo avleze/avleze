@@ -6,7 +6,7 @@ I have always been related to computers. My father was also a programmer in the 
 
 At that time, access to information was difficult because of the lack of the Internet. However, his interest in informatics in general never stopped. He continued repairing PCs and installing operating systems, programs, etc.
 
-I grew up in that context, so my interest in computing multiplied. I asked my father how the windows of Windows XP was made. He asked the Internet what was the best programming language to learn for a fourteen-year-old child. People recommended C/C++ and the Deitel&Deitel book. At fifteen, I started to learn coding just for fun with that book.
+I grew up in that context, so my interest in computing multiplied. I asked my father how the windows of Windows XP were made. He asked in a web forum what was the best programming language to learn for a fourteen-year-old child. People recommended C/C++ and the Deitel&Deitel book. At fifteen, I started to learn coding just for fun with that book.
 
 I signed up for a famous Spanish programming web forum, where I asked questions and helped other people solve problems. Some years later, I programmed my first UI using Qt and later using GTK2 libraries.
 
