@@ -1,5 +1,5 @@
 ## 😄 Hi there!😄
-I'm Antonio Vélez, a 26-year-old Ph.D. student of Computer Science at the University of Cádiz and a lecturer at the same university.
+I'm Antonio Vélez, a 26-year-old Ph.D. student of Computer Science at the University of Cádiz and Backend developer at [idealista](https://www.idealista.com).
 
 ### 🔙 My beginnings
 I have always been related to computers. My father was also a programmer in the 80s when he used BASIC and Clipper. He also attended a Cobol course that never applied to his job. Then, he left the job and moved to the public administration. After that, he continued trying to code just for fun and learning C++, but he didn't achieve it and lost interest in coding.
@@ -12,12 +12,18 @@ I signed up for a famous Spanish programming web forum, where I asked questions 
 
 Then, I enrolled in university and learned about programming and best practices, data structures, software engineering, development methodologies, design patterns, quality assurance, requirements engineering, web engineering, patterns recognition, and much more. Next, I enrolled in an MSc. in research about Computer Science, Big Data, and Digital transformation. After that, I did what I do right now, my Ph.D. thesis about advanced artificial intelligence techniques to extract knowledge from bibliographic sources.
 
+### Employments
+
+- (February 2023 - Today) Backend developer at [idealista](https://www.idealista.com).
+- (January 2021 - February 2023) Lecturer at [University of Cadiz](https://www.uca.es).
+- (September 2020 - January 2021) Research & Development Technician at [University of Cadiz](https://www.uca.es).
+
 ### Educational background
 
 * Research Stay at **University of Pisa**.
-* Ph.D. in Computer Science (2020-?) at **University of Cádiz**.
-* M.Sc. degree in Research in Systems and Computer Engineering (2019-2020) at **University of Cádiz**.
-* Degree in Computer Science (2014-2019) at **University of Cádiz**.
+* Ph.D. in Computer Science (2020-?) at [University of Cadiz](https://www.uca.es).
+* M.Sc. degree in Research in Systems and Computer Engineering (2019-2020) at [University of Cadiz](https://www.uca.es).
+* Degree in Computer Science (2014-2019) at [University of Cadiz](https://www.uca.es).
 
 ### Technological background
 
