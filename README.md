@@ -12,7 +12,7 @@ I signed up for a famous Spanish programming web forum, where I asked questions 
 
 Then, I enrolled in university and learned about programming and best practices, data structures, software engineering, development methodologies, design patterns, quality assurance, requirements engineering, web engineering, patterns recognition, and much more. Next, I enrolled in an MSc. in research about Computer Science, Big Data, and Digital transformation. After that, I started my Ph.D. thesis on advanced artificial intelligence techniques to extract knowledge from bibliographic sources.
 
-And recently I joined [idealista](https://www.idealista.com) as a Backend Developer.
+And recently I joined [idealista](https://www.idealista.com) as Backend Developer.
 
 ### Employments
 
